@@ -1,0 +1,30 @@
+{
+  "name": "fatec_dw3_atividade7_1bim_2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusPolo/fatec_dw3_atividade7_1bim_2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusPolo/fatec_dw3_atividade7_1bim_2022/issues"
+  },
+  "homepage": "https://github.com/ViniciusPolo/fatec_dw3_atividade7_1bim_2022#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "sequelize-cli": "^6.4.1"
+  }
+}
