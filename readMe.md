@@ -6,7 +6,7 @@
 * Sequelize
 * Banco MySQL
 
-##Exemplos da funcionalidade
+## Exemplos da funcionalidade
 * Consulta Departamentos
 ![](prints/GetDepartamentos.png)
 * Criar Departamentos
