@@ -5,3 +5,5 @@
 * Node
 * Sequelize
 * Banco MySQL
+
+![](prints/GetDepartamentos.png)
