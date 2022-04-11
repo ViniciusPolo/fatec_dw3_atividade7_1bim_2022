@@ -19,10 +19,12 @@
 ![](prints/collectionDepartamentoEmpregados.png)
 * Criar empregados
 ![](prints/postEmpregados.png)
+* Consulta Empregados
+![](prints/getEmpregados.png)
 * Editar empregados
-![](prints/updateDepartamentos.png)
+![](prints/updateEmpregados.png)
 * Deletar empregados
-![](prints/deleteDepartamentos.png)
+![](prints/deleteEmpregados.png)
 
 
 
